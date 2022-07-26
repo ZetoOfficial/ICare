@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "icare"
+version = "0.1.0"
+description = ""
+authors = ["ZetoOfficial <tpptgs@bk.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+alembic = "^1.8.0"
+SQLAlchemy = "^1.4.38"
+pydantic = "^1.9.1"
+PyYAML = "^6.0"
+fastapi = "^0.78.0"
+strawberry-graphql = {extras = ["fastapi"], version = "^0.121.0"}
+uvicorn = "^0.18.2"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

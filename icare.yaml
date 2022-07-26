@@ -1,0 +1,137 @@
+[2022-07-26 16:29:26,457] [INFO] [uvicorn.error] [serve():75] Started server process [398528]
+[2022-07-26 16:29:26,457] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:29:26,457] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:29:36,779] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:29:36,880] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:29:36,880] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:29:36,880] [INFO] [uvicorn.error] [serve():85] Finished server process [398528]
+[2022-07-26 16:29:38,609] [INFO] [uvicorn.error] [serve():75] Started server process [398638]
+[2022-07-26 16:29:38,609] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:29:38,609] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:29:41,316] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:29:41,416] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:29:41,416] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:29:41,416] [INFO] [uvicorn.error] [serve():85] Finished server process [398638]
+[2022-07-26 16:29:41,695] [INFO] [uvicorn.error] [serve():75] Started server process [398658]
+[2022-07-26 16:29:41,695] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:29:41,696] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:29:45,807] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:29:45,908] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:29:45,908] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:29:45,908] [INFO] [uvicorn.error] [serve():85] Finished server process [398658]
+[2022-07-26 16:29:50,878] [INFO] [uvicorn.error] [serve():75] Started server process [398729]
+[2022-07-26 16:29:50,878] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:29:50,878] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:29:53,685] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:29:53,786] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:29:53,786] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:29:53,786] [INFO] [uvicorn.error] [serve():85] Finished server process [398729]
+[2022-07-26 16:29:54,057] [INFO] [uvicorn.error] [serve():75] Started server process [398765]
+[2022-07-26 16:29:54,057] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:29:54,058] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:02,176] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:02,276] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:02,276] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:02,277] [INFO] [uvicorn.error] [serve():85] Finished server process [398765]
+[2022-07-26 16:30:02,585] [INFO] [uvicorn.error] [serve():75] Started server process [398809]
+[2022-07-26 16:30:02,586] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:02,586] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:05,694] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:05,794] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:05,795] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:05,795] [INFO] [uvicorn.error] [serve():85] Finished server process [398809]
+[2022-07-26 16:30:09,013] [INFO] [uvicorn.error] [serve():75] Started server process [398880]
+[2022-07-26 16:30:09,013] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:09,013] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:19,738] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:19,838] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:19,840] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:19,842] [INFO] [uvicorn.error] [serve():85] Finished server process [398880]
+[2022-07-26 16:30:20,867] [INFO] [uvicorn.error] [serve():75] Started server process [398937]
+[2022-07-26 16:30:20,867] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:20,867] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:21,769] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:21,870] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:21,870] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:21,871] [INFO] [uvicorn.error] [serve():85] Finished server process [398937]
+[2022-07-26 16:30:23,284] [INFO] [uvicorn.error] [serve():75] Started server process [398972]
+[2022-07-26 16:30:23,284] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:23,285] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:24,187] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:24,288] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:24,288] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:24,288] [INFO] [uvicorn.error] [serve():85] Finished server process [398972]
+[2022-07-26 16:30:24,591] [INFO] [uvicorn.error] [serve():75] Started server process [398978]
+[2022-07-26 16:30:24,591] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:24,591] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:26,997] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:27,097] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:27,098] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:27,098] [INFO] [uvicorn.error] [serve():85] Finished server process [398978]
+[2022-07-26 16:30:37,909] [INFO] [uvicorn.error] [serve():75] Started server process [399089]
+[2022-07-26 16:30:37,909] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:37,909] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:38,511] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:38,611] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:38,612] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:38,612] [INFO] [uvicorn.error] [serve():85] Finished server process [399089]
+[2022-07-26 16:30:38,900] [INFO] [uvicorn.error] [serve():75] Started server process [399095]
+[2022-07-26 16:30:38,900] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:38,900] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:40,203] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:40,303] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:40,304] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:40,304] [INFO] [uvicorn.error] [serve():85] Finished server process [399095]
+[2022-07-26 16:30:40,586] [INFO] [uvicorn.error] [serve():75] Started server process [399104]
+[2022-07-26 16:30:40,586] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:30:40,586] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:30:46,201] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:30:46,302] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:30:46,302] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:30:46,302] [INFO] [uvicorn.error] [serve():85] Finished server process [399104]
+[2022-07-26 16:31:04,681] [INFO] [uvicorn.error] [serve():75] Started server process [399230]
+[2022-07-26 16:31:04,681] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:31:04,681] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:31:05,182] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:31:05,283] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:31:05,283] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:31:05,283] [INFO] [uvicorn.error] [serve():85] Finished server process [399230]
+[2022-07-26 16:31:05,549] [INFO] [uvicorn.error] [serve():75] Started server process [399233]
+[2022-07-26 16:31:05,550] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:31:05,551] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:31:11,965] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:31:12,065] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:31:12,065] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:31:12,065] [INFO] [uvicorn.error] [serve():85] Finished server process [399233]
+[2022-07-26 16:31:12,324] [INFO] [uvicorn.error] [serve():75] Started server process [399302]
+[2022-07-26 16:31:12,324] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:31:12,324] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:32:26,482] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:32:26,582] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:32:26,583] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:32:26,584] [INFO] [uvicorn.error] [serve():85] Finished server process [399302]
+[2022-07-26 16:35:52,474] [INFO] [uvicorn.error] [serve():75] Started server process [400502]
+[2022-07-26 16:35:52,474] [INFO] [uvicorn.error] [startup():47] Waiting for application startup.
+[2022-07-26 16:35:52,474] [INFO] [uvicorn.error] [startup():61] Application startup complete.
+[2022-07-26 16:35:58,877] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:35:58,877] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:35:59,146] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:35:59,146] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:35:59,410] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:35:59,410] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:35:59,889] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:35:59,889] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:36:00,737] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:36:00,738] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:36:01,850] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:36:01,850] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:36:03,690] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:36:03,690] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:36:12,355] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:36:12,355] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:36:22,379] [WARNING] [uvicorn.error] [handle_upgrade():264] Unsupported upgrade request.
+[2022-07-26 16:36:22,379] [WARNING] [uvicorn.error] [handle_upgrade():269] No supported WebSocket library detected. Please use 'pip install uvicorn[standard]', or install 'websockets' or 'wsproto' manually.
+[2022-07-26 16:36:56,817] [INFO] [uvicorn.error] [shutdown():253] Shutting down
+[2022-07-26 16:36:56,918] [INFO] [uvicorn.error] [shutdown():66] Waiting for application shutdown.
+[2022-07-26 16:36:56,918] [INFO] [uvicorn.error] [shutdown():77] Application shutdown complete.
+[2022-07-26 16:36:56,918] [INFO] [uvicorn.error] [serve():85] Finished server process [400502]
